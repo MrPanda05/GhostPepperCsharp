@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://drpucul1wpug5"]
+
+[ext_resource type="Script" path="res://Commons/SingleToon/GlobalStats.cs" id="1_opbvn"]
+
+[node name="GlobalStats" type="Node"]
+script = ExtResource("1_opbvn")

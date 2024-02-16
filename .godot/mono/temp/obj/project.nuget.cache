@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "IyBN+f7wADk/00i5UvsyfuXKoTBUc6Nak+wjJvalEqc0hHO7SzhazwqV8heVI7zx6frkl6XNLV9V9nklKz5hZA==",
+  "success": true,
+  "projectFilePath": "C:\\USERS\\ADELAR\\DESKTOP\\USO\\PROJETOS\\PROGRAMMING\\_GODOTPROJECTS\\GHOSTPEPPERCSHARP\\GhostPeppersCsharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Adelar\\.nuget\\packages\\godot.sourcegenerators\\4.2.1\\godot.sourcegenerators.4.2.1.nupkg.sha512",
+    "C:\\Users\\Adelar\\.nuget\\packages\\godotsharp\\4.2.1\\godotsharp.4.2.1.nupkg.sha512",
+    "C:\\Users\\Adelar\\.nuget\\packages\\godotsharpeditor\\4.2.1\\godotsharpeditor.4.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}

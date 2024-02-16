@@ -1,0 +1,9 @@
+[gd_scene load_steps=3 format=3 uid="uid://c4g41xlm684py"]
+
+[ext_resource type="Script" path="res://Enemies/EnemyObjectPool.cs" id="1_kqgt3"]
+[ext_resource type="PackedScene" uid="uid://ckh05teckij4r" path="res://Enemies/Enemy.tscn" id="2_58fue"]
+
+[node name="EnemyObjectPool" type="Node2D"]
+position = Vector2(0, 3.345)
+script = ExtResource("1_kqgt3")
+EnemyScene = ExtResource("2_58fue")

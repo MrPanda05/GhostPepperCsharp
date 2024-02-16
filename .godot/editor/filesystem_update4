@@ -1,0 +1,16 @@
+res://Enemies/EnemyObjectPool.tscn
+res://Commons/Components/HealthComponent.cs
+res://Commons/Components/HitBoxComponent.cs
+res://Commons/SingleToon/GlobalStats.cs
+res://Enemies/Enemy.cs
+res://Enemies/EnemyObjectPool.cs
+res://Player/Flame.cs
+res://Player/Player.cs
+res://Scenes/Level1.tscn
+res://Scenes/MainScene.tscn
+res://Player/Player.tscn
+res://Player/Flame.tscn
+res://Enemies/Enemy.tscn
+res://Commons/SingleToon/GlobalStats.tscn
+res://Enemies/Spawner.tscn
+res://Enemies/Spawner.cs

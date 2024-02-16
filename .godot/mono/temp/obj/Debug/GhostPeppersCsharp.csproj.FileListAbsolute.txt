@@ -1,0 +1,17 @@
+C:\Users\Adelar\Desktop\Uso\Projetos\Programming\_GodotProjects\GhostPepperCsharp\.godot\mono\temp\bin\Debug\GhostPeppersCsharp.deps.json
+C:\Users\Adelar\Desktop\Uso\Projetos\Programming\_GodotProjects\GhostPepperCsharp\.godot\mono\temp\bin\Debug\GhostPeppersCsharp.runtimeconfig.json
+C:\Users\Adelar\Desktop\Uso\Projetos\Programming\_GodotProjects\GhostPepperCsharp\.godot\mono\temp\bin\Debug\GhostPeppersCsharp.dll
+C:\Users\Adelar\Desktop\Uso\Projetos\Programming\_GodotProjects\GhostPepperCsharp\.godot\mono\temp\bin\Debug\GhostPeppersCsharp.pdb
+C:\Users\Adelar\Desktop\Uso\Projetos\Programming\_GodotProjects\GhostPepperCsharp\.godot\mono\temp\bin\Debug\GodotSharp.dll
+C:\Users\Adelar\Desktop\Uso\Projetos\Programming\_GodotProjects\GhostPepperCsharp\.godot\mono\temp\bin\Debug\GodotSharpEditor.dll
+C:\Users\Adelar\Desktop\Uso\Projetos\Programming\_GodotProjects\GhostPepperCsharp\.godot\mono\temp\obj\Debug\GhostPeppersCsharp.csproj.AssemblyReference.cache
+C:\Users\Adelar\Desktop\Uso\Projetos\Programming\_GodotProjects\GhostPepperCsharp\.godot\mono\temp\obj\Debug\GhostPeppersCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adelar\Desktop\Uso\Projetos\Programming\_GodotProjects\GhostPepperCsharp\.godot\mono\temp\obj\Debug\GhostPeppersCsharp.AssemblyInfoInputs.cache
+C:\Users\Adelar\Desktop\Uso\Projetos\Programming\_GodotProjects\GhostPepperCsharp\.godot\mono\temp\obj\Debug\GhostPeppersCsharp.AssemblyInfo.cs
+C:\Users\Adelar\Desktop\Uso\Projetos\Programming\_GodotProjects\GhostPepperCsharp\.godot\mono\temp\obj\Debug\GhostPeppersCsharp.csproj.CoreCompileInputs.cache
+C:\Users\Adelar\Desktop\Uso\Projetos\Programming\_GodotProjects\GhostPepperCsharp\.godot\mono\temp\obj\Debug\GhostPeppersCsharp.csproj.CopyComplete
+C:\Users\Adelar\Desktop\Uso\Projetos\Programming\_GodotProjects\GhostPepperCsharp\.godot\mono\temp\obj\Debug\GhostPeppersCsharp.dll
+C:\Users\Adelar\Desktop\Uso\Projetos\Programming\_GodotProjects\GhostPepperCsharp\.godot\mono\temp\obj\Debug\refint\GhostPeppersCsharp.dll
+C:\Users\Adelar\Desktop\Uso\Projetos\Programming\_GodotProjects\GhostPepperCsharp\.godot\mono\temp\obj\Debug\GhostPeppersCsharp.pdb
+C:\Users\Adelar\Desktop\Uso\Projetos\Programming\_GodotProjects\GhostPepperCsharp\.godot\mono\temp\obj\Debug\GhostPeppersCsharp.genruntimeconfig.cache
+C:\Users\Adelar\Desktop\Uso\Projetos\Programming\_GodotProjects\GhostPepperCsharp\.godot\mono\temp\obj\Debug\ref\GhostPeppersCsharp.dll
